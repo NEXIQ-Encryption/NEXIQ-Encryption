@@ -4,15 +4,12 @@
 # NEXIQ_Encryption
 A Post-Quantum Encryption Algorithm
 
-This repository contains all codes related to my research paper titled "**Enhancing the NEXIQ Cryptosystem**". The paper is available here: https://www.ijcaonline.org/archives/volume176/number29/31388-31388-2020920320
-
-NEXIQ is an open-source public key cryptosystem that uses
-lattice-based cryptography to encrypt and decrypt data. Unlike
+NEXIQ uses lattice-based cryptography to encrypt and decrypt data. Unlike
 other popular public-key cryptosystems, it is resistant to
 attacks using Shor's Algorithm and its performance has been
 shown to be significantly greater. 
 
-This paper talks about how
+This module shows how
 Koblitz encoding from Elliptic Curve Cryptography (ECC)
 can be used to convert each character in a dataset to a point on
 an elliptic curve. A sum of squares analogy is pitted against
