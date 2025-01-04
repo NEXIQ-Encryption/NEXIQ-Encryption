@@ -1,9 +1,5 @@
 [![python3](https://img.shields.io/badge/python3-v3.6-green?style=for-the-badge&logo=python)](https://www.python.org)
 
-[![DOI:10.5120/ijca2020920320
-](https://zenodo.org/badge/DOI/10.5120/ijca2020920320.svg)](https://doi.org/10.5120/ijca2020920320
-)
-
 
 # NEXIQ_cryptography
 A Post-Quantum Encryption Algorithm
@@ -35,6 +31,11 @@ of data compression has also been implemented and it has
 been tested whether data compression and expansion during
 the encryption-decryption process results in original data with
 no or minimal loss.
+
+# The Research Behind NEXIQ
+[![DOI:10.5120/ijca2020920320
+](https://zenodo.org/badge/DOI/10.5120/ijca2020920320.svg)](https://doi.org/10.5120/ijca2020920320
+)
 
 ## Cloning
 ```bash
