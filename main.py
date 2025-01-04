@@ -1,4 +1,4 @@
-from NtruEncrypt import *
+from NexiqEncrypt import *
 from Polynomial import Zx
 from num_to_polynomial import *
 
