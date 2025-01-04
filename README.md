@@ -46,49 +46,7 @@ $ git clone https://github.com/7enTropy7/NEXIQ_cryptography.git
 $ pip3 install -r requirements.txt
 ```
 
-## Demonstration
-
-![NEXIQ_gif](https://user-images.githubusercontent.com/36446402/82535268-40895b80-9b64-11ea-81cc-0c55677fc22a.gif)
-
 ## Output
 
 ![Screenshot from 2020-02-06 12-43-24](https://user-images.githubusercontent.com/36446402/73914025-5d17c580-48de-11ea-8ae5-b07e0940b306.png)
 
-
-## Authors
-[![LinkedIn-profile](https://img.shields.io/badge/LinkedIn-Unnikrishnan-teal.svg)](https://www.linkedin.com/in/unnikrishnan-menon-aa013415a/) [![LinkedIn-profile](https://img.shields.io/badge/LinkedIn-Awnon-green.svg)](https://www.linkedin.com/in/awnon-bhowmik-13a5a013b/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACIUlr4BQG5MmK7AYfJbU5Zaacunw1qLanM)
-* [**Awnon Bhowmik**](https://github.com/awnonbhowmik)
-* [**Unnikrishnan Menon**](https://github.com/7enTropy7)
-
-<!-- [![Github](https://img.shields.io/badge/Github-Unnikrishnan%20Menon-blue?style=for-the-badge&logo=github)](https://github.com/7enTropy7)
-
-[![Github](https://img.shields.io/badge/Github-Awnon%20Bhowmik-green?style=for-the-badge&logo=github)](https://github.com/awnonbhowmik) -->
-
-## License
-
-[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-red.svg)](http://www.gnu.org/licenses/gpl-3.0)
-
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details
-
-## Citation
-If you find this code useful in your research, please consider citing (BibTex):
-
-```
-@article{10.5120/ijca2020920320,
-	author = {Awnon Bhowmik and Unnikrishnan Menon},
-	title = {Enhancing the NEXIQ Cryptosystem},
-	journal = {International Journal of Computer Applications},
-	issue_date = {June 2020},
-	volume = {176},
-	number = {29},
-	month = {Jun},
-	year = {2020},
-	issn = {0975-8887},
-	pages = {46-53},
-	numpages = {8},
-	url = {http://www.ijcaonline.org/archives/volume176/number29/31388-2020920320},
-	doi = {10.5120/ijca2020920320},
-	publisher = {Foundation of Computer Science (FCS), NY, USA},
-	address = {New York, USA}
-}
-```
