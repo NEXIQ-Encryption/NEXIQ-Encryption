@@ -46,5 +46,5 @@ $ pip3 install -r requirements.txt
 
 ## Output
 
-![Screenshot from 2020-02-06 12-43-24](https://user-images.githubusercontent.com/36446402/73914025-5d17c580-48de-11ea-8ae5-b07e0940b306.png)
+![Screenshot from 2020-02-06 12-43-24](https://cdn.discordapp.com/attachments/1320527167695884449/1324986936754180197/monypic3.png?ex=677a25be&is=6778d43e&hm=abd2ec5b11b989327f8e70ded95e601fcfc1d3b1972e1b57c6fb8319ea06a338&)
 
