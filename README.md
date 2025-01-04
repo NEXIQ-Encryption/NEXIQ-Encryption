@@ -1,7 +1,7 @@
 [![python3](https://img.shields.io/badge/python3-v3.6-green?style=for-the-badge&logo=python)](https://www.python.org)
 
 
-# NEXIQ_cryptography
+# NEXIQ_Encryption
 A Post-Quantum Encryption Algorithm
 
 This repository contains all codes related to my research paper titled "**Enhancing the NEXIQ Cryptosystem**". The paper is available here: https://www.ijcaonline.org/archives/volume176/number29/31388-31388-2020920320
@@ -39,7 +39,7 @@ no or minimal loss.
 
 ## Cloning
 ```bash
-$ git clone https://github.com/7enTropy7/NEXIQ_cryptography.git
+$ git clone https://github.com/7enTropy7/NEXIQ_Encryption.git
 ```
 
 ## Dependencies
