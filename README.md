@@ -3,17 +3,14 @@
 [![DOI:10.5120/ijca2020920320
 ](https://zenodo.org/badge/DOI/10.5120/ijca2020920320.svg)](https://doi.org/10.5120/ijca2020920320
 )
-[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-purple.svg)](http://www.gnu.org/licenses/gpl-3.0) [![GitHub followers](https://img.shields.io/github/followers/7enTropy7?label=Follow&style=social)](https://github.com/7enTropy7?tab=followers) [![GitHub stars](https://img.shields.io/github/stars/7enTropy7/NTRU_cryptography.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/7enTropy7/NTRU_cryptography/stargazers/)
-
-[![Linkedin](https://img.shields.io/badge/Linkedin-Unnikrishnan%20Menon-red?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/unnikrishnan-menon-aa013415a/) [![Linkedin](https://img.shields.io/badge/Linkedin-Awnon%20Bhowmik-teal?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/awnon-bhowmik-13a5a013b/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACIUlr4BQG5MmK7AYfJbU5Zaacunw1qLanM)
 
 
-# NTRU_cryptography
+# NEXIQ_cryptography
 A Post-Quantum Encryption Algorithm
 
-This repository contains all codes related to my research paper titled "**Enhancing the NTRU Cryptosystem**". The paper is available here: https://www.ijcaonline.org/archives/volume176/number29/31388-31388-2020920320
+This repository contains all codes related to my research paper titled "**Enhancing the NEXIQ Cryptosystem**". The paper is available here: https://www.ijcaonline.org/archives/volume176/number29/31388-31388-2020920320
 
-NTRU is an open-source public key cryptosystem that uses
+NEXIQ is an open-source public key cryptosystem that uses
 lattice-based cryptography to encrypt and decrypt data. Unlike
 other popular public-key cryptosystems, it is resistant to
 attacks using Shor's Algorithm and its performance has been
@@ -41,7 +38,7 @@ no or minimal loss.
 
 ## Cloning
 ```bash
-$ git clone https://github.com/7enTropy7/NTRU_cryptography.git
+$ git clone https://github.com/7enTropy7/NEXIQ_cryptography.git
 ```
 
 ## Dependencies
@@ -51,7 +48,7 @@ $ pip3 install -r requirements.txt
 
 ## Demonstration
 
-![ntru_gif](https://user-images.githubusercontent.com/36446402/82535268-40895b80-9b64-11ea-81cc-0c55677fc22a.gif)
+![NEXIQ_gif](https://user-images.githubusercontent.com/36446402/82535268-40895b80-9b64-11ea-81cc-0c55677fc22a.gif)
 
 ## Output
 
@@ -79,7 +76,7 @@ If you find this code useful in your research, please consider citing (BibTex):
 ```
 @article{10.5120/ijca2020920320,
 	author = {Awnon Bhowmik and Unnikrishnan Menon},
-	title = {Enhancing the NTRU Cryptosystem},
+	title = {Enhancing the NEXIQ Cryptosystem},
 	journal = {International Journal of Computer Applications},
 	issue_date = {June 2020},
 	volume = {176},
